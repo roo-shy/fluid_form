@@ -1,4 +1,4 @@
 ## Fluid Form
 
-- [ ] BEM
-- [ ] mixins and variables
+- [x] BEM
+- [x] mixins and variables
